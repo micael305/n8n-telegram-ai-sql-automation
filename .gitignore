@@ -1,0 +1,27 @@
+# --- Seguridad y Credenciales env
+credentials.json
+auth.json
+
+# --- Archivos de Sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs y Temporales ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.tmp/
+.temp/
+
+# --- n8n 
+.n8n/
+binaryData/
+nodes/
+
+# --- IDEs y Editores ---
+.vscode/
+.idea/
+*.swp
+*.bak
