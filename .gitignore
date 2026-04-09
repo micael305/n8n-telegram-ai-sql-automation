@@ -25,3 +25,9 @@ nodes/
 .idea/
 *.swp
 *.bak
+
+# Seguridad
+.env
+
+# Base de datos local
+/postgres_data
